@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ To codando a pelo menos 1 ano<br>📚 Estou atualmente fazendo uns projetos avulsos<br>🎲 Existem mais galinhas do que pessoas no mundo</p>
+<p align="left">✨ To codando a pelo menos 1 ano<br>📚 Estou atualmente fazendo uns projetos avulsos<br>🎲 Ideias nunca são originais, apenas uma coisa é. E o que é isso? Estilo🤙</p>
 
 ###
 
