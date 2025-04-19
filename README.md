@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ To codando a pelo menos 1 ano<br>📚 Estou atualmente fazendo uns projetos avulsos<br>🎲 Ideias nunca são originais, apenas uma coisa é. Estilo🤙</p>
+<p align="left">✨🎲 Ideias nunca são originais, apenas uma coisa é. Estilo🤙</p>
 
 ###
 
