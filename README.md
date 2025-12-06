@@ -2,15 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel Martins de Morais, estou cursando Engenharia de Computação e, eu gosto de codar umas parada.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨🎲 Ideias nunca são originais, apenas uma coisa é. Estilo🤙</p>
+<p align="left">Meu nome é Gabriel Martins de Morais, estou cursando Engenharia de Computação.</p>
 
 ###
 
